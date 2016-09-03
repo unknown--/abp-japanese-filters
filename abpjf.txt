@@ -5514,14 +5514,6 @@ _azlink-$object,script,subdocument
 _azlink.$object,script,subdocument
 _azlink^$object,script,subdocument
 _azlink_$object,script,subdocument
-_beacon-
-_beacon.
-_beacon^
-_beacon_
-_beacons-
-_beacons.
-_beacons^
-_beacons_
 _campaign=$popup
 _cellcast-media-
 _cellcast-media.
